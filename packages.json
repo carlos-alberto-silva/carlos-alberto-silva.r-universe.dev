@@ -1,14 +1,14 @@
 [
     {
-        "package": "glitter",
-        "url": "https://github.com/lvaudor/glitter"
+        "package": "LadderFuelsR",
+        "url": "https://github.com/olgaviedma/LadderFuelsR"
     },
     {
-        "package": "cransays",
-        "url": "https://github.com/lockedata/cransays"
+        "package": "rGEDI",
+        "url": "https://github.com/carlos-alberto-silva/rGEDI"
     },
     {
-        "package": "roblog",
-        "url": "https://github.com/ropenscilabs/roblog"
+        "package": "ForestGapR",
+        "url": "https://github.com/carlos-alberto-silva/ForestGapR"
     }
 ]
