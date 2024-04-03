@@ -1,7 +1,7 @@
 [
     {
-        "package": "rICESat2Veg",
-        "url": "https://github.com/carlos-alberto-silva/rICESat2Veg"
+        "package": "ICESat2VegR",
+        "url": "https://github.com/carlos-alberto-silva/ICESat2VegR"
     },
     {
         "package": "LadderFuelsR",
