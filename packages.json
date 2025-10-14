@@ -11,6 +11,12 @@
         "package": "rGEDI",
         "url": "https://github.com/carlos-alberto-silva/rGEDI"
     },
+
+    
+    {
+        "package": "rGEDI",
+        "url": "https://github.com/carlos-alberto-silva/rFDS"
+    },
     
     {
         "package": "ForestGapR",
