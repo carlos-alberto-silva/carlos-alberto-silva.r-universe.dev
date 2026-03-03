@@ -3,6 +3,12 @@
         "package": "ICESat2VegR",
         "url": "https://github.com/carlos-alberto-silva/ICESat2VegR"
     },
+
+      {
+        "package": "ICESat2VegR",
+        "url": "https://github.com/carlos-alberto-silva/nisaR"
+    },
+    
     {
         "package": "LadderFuelsR",
         "url": "https://github.com/olgaviedma/LadderFuelsR"
